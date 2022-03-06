@@ -5,7 +5,7 @@
     </head>
     <body>
         <div style="position:relative; width:1500px ; height: 100px;">
-         <img class="image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAGFBMVEV6gYt6gIx4gox2g4x4fop0hIxyhYxzgosABxrQAAABOklEQVR4nO3WQQrCMBRF0bZWu/8dW8S5oxBuPGcF78InZNsAAAD4Zd9nLxhNYd/6het7PGYvGO35mr1gtIUL99t2HH9Q+Jw9ZJhv4XXNHjLMt3Dht1Rh36fwTjxmDxlt/X/pec5eMNq+fuHyV6qwT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2Kez7h8I3abwCJY+sST4AAAAASUVORK5CYII=" width="1500px" height="100px">
+         <img class="image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAGFBMVEV6gYt6gIx4gox2g4x4fop0hIxyhYxzgosABxrQAAABOklEQVR4nO3WQQrCMBRF0bZWu/8dW8S5oxBuPGcF78InZNsAAAD4Zd9nLxhNYd/6het7PGYvGO35mr1gtIUL99t2HH9Q+Jw9ZJhv4XXNHjLMt3Dht1Rh36fwTjxmDxlt/X/pec5eMNq+fuHyV6qwT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYp7BPYZ/CPoV9CvsU9insU9insE9hn8I+hX0K+xT2Kez7h8I3abwCJY+sST4AAAAASUVORK5CYII=">
          <span id="title" style="position: absolute; top: 10; left:0">Masterfeng</span>
          <span style="position: absolute;top: 40;left: 600;"><input type="button" value="首頁" name="mainpage"></span>
          <span style="position: absolute; top:40; left:700 ;"><input type="button" value="關於我" name="about me"></span>

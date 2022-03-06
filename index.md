@@ -1,7 +1,8 @@
 <html>
-    <head>
+    
     <title>Masterfeng</title>
-    <link href="https://fatmasterfeng.neocities.org/002.css" rel="stylesheet">
+    <head>
+     <link href="https://fatmasterfeng.neocities.org/002.css" rel="stylesheet">
     
     </head>
     <body>
